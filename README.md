@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1871-jump-game-vii) |
 ## Sorting
 |  |
 | ------- |
@@ -23,5 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1871-jump-game-vii) |
 | [2906-construct-product-matrix](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2906-construct-product-matrix) |
+## String
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1871-jump-game-vii) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
