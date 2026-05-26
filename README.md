@@ -30,8 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1871-jump-game-vii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1871-jump-game-vii) |
+## Hash Table
+|  |
+| ------- |
+| [3120-count-the-number-of-special-characters-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 <!---LeetCode Topics End-->
