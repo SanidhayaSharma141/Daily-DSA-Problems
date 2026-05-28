@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
 | [2906-construct-product-matrix](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2906-construct-product-matrix) |
+| [3093-longest-common-suffix-queries](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3093-longest-common-suffix-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1871-jump-game-vii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1871-jump-game-vii) |
+| [3093-longest-common-suffix-queries](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Sliding Window
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
+## Trie
+|  |
+| ------- |
+| [3093-longest-common-suffix-queries](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3093-longest-common-suffix-queries) |
 <!---LeetCode Topics End-->
