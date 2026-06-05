@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
 | [2126-destroying-asteroids](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [3161-block-placement-queries](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
