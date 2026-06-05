@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0053-maximum-subarray) |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
 | [2126-destroying-asteroids](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0053-maximum-subarray) |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1871-jump-game-vii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
