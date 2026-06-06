@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0455-assign-cookies) |
 | [0875-koko-eating-bananas](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
 | [1901-find-a-peak-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1901-find-a-peak-element-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0455-assign-cookies) |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
 | [2126-destroying-asteroids](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0455-assign-cookies) |
 | [2126-destroying-asteroids](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0031-next-permutation) |
+| [0455-assign-cookies](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0455-assign-cookies) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Enumeration
