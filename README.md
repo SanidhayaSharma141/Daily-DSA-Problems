@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0162-find-peak-element) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0198-house-robber) |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1871-jump-game-vii) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2906-construct-product-matrix](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2906-construct-product-matrix) |
 ## Prefix Sum
