@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
+| [1901-find-a-peak-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2126-destroying-asteroids](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2574-left-and-right-sum-differences](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1901-find-a-peak-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2906-construct-product-matrix](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2906-construct-product-matrix) |
 ## Prefix Sum
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0162-find-peak-element) |
+| [1901-find-a-peak-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [3161-block-placement-queries](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3161-block-placement-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
