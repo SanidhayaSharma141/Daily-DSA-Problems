@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0169-majority-element) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0198-house-robber) |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1871-jump-game-vii) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0455-assign-cookies) |
 | [2126-destroying-asteroids](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
