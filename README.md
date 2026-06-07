@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0368-largest-divisible-subset](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0455-assign-cookies) |
 | [0875-koko-eating-bananas](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0994-rotting-oranges) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0368-largest-divisible-subset](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1871-jump-game-vii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0229-majority-element-ii) |
+| [0368-largest-divisible-subset](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0455-assign-cookies) |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
 | [2126-destroying-asteroids](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2126-destroying-asteroids) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
