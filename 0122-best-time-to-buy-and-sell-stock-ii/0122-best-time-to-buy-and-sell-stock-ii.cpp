@@ -1,12 +1,14 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int nextBuy=0;
-        int nextSell=0;
-        for(int i =prices.size()-1;i>=0;i--) {
-            nextBuy= max(-prices[i]+nextSell, nextBuy);
-            nextSell=max(prices[i]+nextBuy, nextSell);
+        int prevBuy=-prices[0];
+        int prevSell=0;
+        for(int i =1;i<prices.size();i++) {
+            int currBuy= max(-prices[i]+prevSell, prevBuy);
+            int currSell=max(prices[i]+prevBuy,prevSell);
+            prevBuy=currBuy;
+            prevSell=currSell;
         }
-        return nextBuy;
+        return prevSell;
     }
 };
