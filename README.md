@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0368-largest-divisible-subset) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1871-jump-game-vii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0127-word-ladder) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1871-jump-game-vii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1871-jump-game-vii) |
 | [2953-count-complete-substrings](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2953-count-complete-substrings) |
 | [3093-longest-common-suffix-queries](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3093-longest-common-suffix-queries) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0229-majority-element-ii) |
+| [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2953-count-complete-substrings](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2953-count-complete-substrings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
