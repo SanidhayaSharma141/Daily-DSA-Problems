@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1840-maximum-building-height) |
 | [1901-find-a-peak-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2126-destroying-asteroids](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0455-assign-cookies) |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
+| [1840-maximum-building-height](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1840-maximum-building-height) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
