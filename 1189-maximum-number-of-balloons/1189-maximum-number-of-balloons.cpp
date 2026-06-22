@@ -1,21 +1,16 @@
 class Solution {
 public:
     int maxNumberOfBalloons(string text) {
-        unordered_map<char, int> mp;
+        int b = 0, a = 0, l = 0, o = 0, n = 0;
 
-        for(int i =0;i<text.size();i++) 
-        {
-            mp[text[i]]++;
+        for (char c : text) {
+            if (c == 'b') b++;
+            else if (c == 'a') a++;
+            else if (c == 'l') l++;
+            else if (c == 'o') o++;
+            else if (c == 'n') n++;
         }
-        vector<char> chrs= {'b','a','l','o','n'};
 
-        int curr=INT_MAX;
-        for (int i =0;i<chrs.size();i++){
-            if(chrs[i]=='l'||chrs[i]=='o'){
-                mp[chrs[i]]/=2;
-            }
-            curr=min(curr,mp[chrs[i]]);
-        }
-        return curr;
+        return min({b, a, l / 2, o / 2, n});
     }
 };
