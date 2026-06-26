@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2906-construct-product-matrix) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Trie
 |  |
 | ------- |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -204,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -279,4 +284,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
