@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1901-find-a-peak-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1901-find-a-peak-element-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2126-destroying-asteroids](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1871-jump-game-vii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2953-count-complete-substrings](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2953-count-complete-substrings) |
 | [3093-longest-common-suffix-queries](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
