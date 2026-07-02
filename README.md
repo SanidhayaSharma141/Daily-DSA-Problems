@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3093-longest-common-suffix-queries](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3161-block-placement-queries) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2906-construct-product-matrix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0210-course-schedule-ii) |
 | [0994-rotting-oranges](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0210-course-schedule-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bit Manipulation
 |  |
@@ -302,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
