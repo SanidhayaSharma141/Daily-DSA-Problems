@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0455-assign-cookies) |
 | [0875-koko-eating-bananas](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0994-rotting-oranges) |
+| [1301-number-of-paths-with-max-score](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [1301-number-of-paths-with-max-score](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1871-jump-game-vii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0994-rotting-oranges) |
+| [1301-number-of-paths-with-max-score](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1901-find-a-peak-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2906-construct-product-matrix) |
