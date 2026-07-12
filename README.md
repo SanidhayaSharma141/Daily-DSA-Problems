@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1340-jump-game-v) |
 | [1833-maximum-ice-cream-bars](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1840-maximum-building-height) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1189-maximum-number-of-balloons](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2953-count-complete-substrings](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2953-count-complete-substrings) |
