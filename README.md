@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2906-construct-product-matrix) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3093-longest-common-suffix-queries](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3161-block-placement-queries](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3161-block-placement-queries) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1871-jump-game-vii) |
 | [2953-count-complete-substrings](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2953-count-complete-substrings) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2953-count-complete-substrings](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2953-count-complete-substrings) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/SanidhayaSharma141/Daily-DSA-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
